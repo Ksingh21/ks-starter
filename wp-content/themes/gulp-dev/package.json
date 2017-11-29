@@ -1,5 +1,5 @@
 {
- "name": "twentyseventeen-child",
+ "name": "ks-starter",
  "version": "0.0.1",
  "description": "Accessible WordPress theme utilizing flex layouts and modern development practices.",
  "main": "index.php",
@@ -8,9 +8,9 @@
  },
  "repository": {
    "type": "git",
-   "url": ""
+   "url": "https://github.com/Ksingh21/ks-starter"
  },
- "author": "",
+ "author": "Khushwant Singh",
  "license": "GPL-3.0",
  "bugs": {
    "url": ""

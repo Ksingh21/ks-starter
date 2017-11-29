@@ -24,7 +24,11 @@
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'ks-starter' ); ?></a>
 
-	<header id="masthead" class="site-header">
+<figure class="header-image">
+<?php the_header_image_tag(); ?>
+</figure>
+
+<header id="masthead" class="site-header">
 		<div class="site-branding">
 			<?php
 			the_custom_logo();

@@ -45,6 +45,7 @@ if ( ! function_exists( 'ks_starter_setup' ) ) :
 		// This theme uses wp_nav_menu() in one location.
 		register_nav_menus( array(
 			'menu-1' => esc_html__( 'Primary', 'ks-starter' ),
+			'menu-2' => esc_html__( 'Social', 'ks-starter' ),
 		) );
 
 		/*
